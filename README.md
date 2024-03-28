@@ -5,7 +5,7 @@
 - Cloner le projet :
 ```
 git clone https://github.com/oulanbator/cours_flutter_mini_tchat.git
-cd ./cours_flutter_mini_tchat.git
+cd ./cours_flutter_mini_tchat
 flutter pub get
 ```
 
